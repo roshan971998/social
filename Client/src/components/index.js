@@ -13,7 +13,7 @@ import CreatePost from "./CreatePost";
 import Post from "./Post";
 import Comment from "./Comment";
 import Chat from "./Chat";
-import ChatHome from "./ChatHome";
+// import ChatHome from "./ChatHome";
 import ChatPage from "./ChatPage";
 
 export {
@@ -32,6 +32,6 @@ export {
   Settings,
   Signup,
   UserProfile,
-  ChatHome,
+//   ChatHome,
   ChatPage,
 };
